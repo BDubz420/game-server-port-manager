@@ -32,7 +32,7 @@ A lightweight CLI utility by **BDubz** for quickly opening firewall ports for po
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bdubz/game-server-port-manager.git
+   git clone https://github.com/BDubz420/game-server-port-manager.git
    cd game-server-port-manager
    ```
 2. Run the install script as root:
